@@ -25,8 +25,8 @@ El repositorio de Maven (o repositorio central) tiene una estructura que permite
 
 ## EJERCICIO DE LAS FIGURAS
 ### CREAR UN PROYECTO CON MAVEN
-  Buscar cómo se crea un proyecto maven con ayuda de los arquetipos (archetypes).
-  Busque cómo ejecutar desde línea de comandos el objetivo "generate" del plugin "archetype", con los siguientes parámetros:
+  - Buscar cómo se crea un proyecto maven con ayuda de los arquetipos (archetypes).
+  - Busque cómo ejecutar desde línea de comandos el objetivo "generate" del plugin "archetype", con los siguientes parámetros:
   
   1. 
   
@@ -38,6 +38,12 @@ El repositorio de Maven (o repositorio central) tiene una estructura que permite
   3.
   
   ![image](https://github.com/Nat15005/Lab02---CVDS/assets/111907712/9755cdf7-a40d-46bb-8adc-8be3b92d2db4)
+
+  - Cambie al directorio Patterns:
+    ![image](https://github.com/Nat15005/Lab02---CVDS/assets/111907712/b77d2174-f11c-40f9-9c35-952f804be3a2)
+
+
+
 
 
 
