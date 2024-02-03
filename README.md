@@ -53,7 +53,13 @@ El repositorio de Maven (o repositorio central) tiene una estructura que permite
   
   ![image](https://github.com/Nat15005/Lab02---CVDS/assets/111907712/cf6c3ceb-26be-42b3-82a0-5c5e90501b86)
 
-  ![image](https://github.com/Nat15005/Lab02---CVDS/assets/111907712/96652dee-4e96-45b3-9c63-3b7ef3ce027d)
+  ![image](https://github.com/Nat15005/Lab02---CVDS/assets/111907712/7c21bf23-cc1a-43c3-863d-5f823b26bd3e)
+
+
+## COMPILAR Y EJECUTAR
+![image](https://github.com/Nat15005/Lab02---CVDS/assets/111907712/814e8ab9-cf75-46d0-baec-747bd7fdbb75)
+
+
 
 
 
