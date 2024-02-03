@@ -58,9 +58,30 @@ El repositorio de Maven (o repositorio central) tiene una estructura que permite
 
 ## COMPILAR Y EJECUTAR
 - Busque cuál es el objetivo del parámetro "package" y qué otros parámetros se podrían enviar al comando mvn.
+  
   El parámetro package en Maven se utiliza para especificar el tipo de empaquetado que se aplicará al proyecto durante la fase de empaquetado (mvn package). En este caso un .jar
 - Busque cómo ejecutar desde línea de comandos, un proyecto maven y verifique la salida cuando se ejecuta con la clase App.java como parámetro en "mainClass". Tip: https://www.mojohaus.org/exec-maven-plugin/usage.html
+
+  ![image](https://github.com/Nat15005/Lab02---CVDS/assets/111907712/c7e62ed1-9f9c-4317-9dbc-e92f4ab39998)
+
 - Realice el cambio en la clase App.java para crear un saludo personalizado, basado en los parámetros de entrada a la aplicación.
+
+ 1. Modificamos el .app
+    
+    ![image](https://github.com/Nat15005/Lab02---CVDS/assets/111907712/19d34654-f1f8-4b69-9803-b34e0f5d012b)
+
+
+2. Compilamos
+   
+   ![image](https://github.com/Nat15005/Lab02---CVDS/assets/111907712/2d9efcf3-3594-47ee-aca5-57a92d22bd66)
+   
+3. thd
+
+   ![image](https://github.com/Nat15005/Lab02---CVDS/assets/111907712/166d394f-14f9-4169-909f-5a0e34e7c8dc)
+
+
+
+
 - Utilizar la primera posición del parámetro que llega al método "main" para realizar elsaludo personalizado, en caso que no sea posible, se debe mantener el saludo como se encuentra actualmente:
 - Buscar cómo enviar parámetros al plugin "exec".
 - Ejecutar nuevamente la clase desde línea de comandos y verificar la salida: Hello World!
