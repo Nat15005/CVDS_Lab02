@@ -53,7 +53,8 @@ El repositorio de Maven (o repositorio central) tiene una estructura que permite
   
   ![image](https://github.com/Nat15005/Lab02---CVDS/assets/111907712/cf6c3ceb-26be-42b3-82a0-5c5e90501b86)
 
-  ![image](https://github.com/Nat15005/Lab02---CVDS/assets/111907712/6dcf17c2-04ca-4660-8fd3-b1616e4cc177)
+  ![image](https://github.com/Nat15005/Lab02---CVDS/assets/111907712/96652dee-4e96-45b3-9c63-3b7ef3ce027d)
+
 
 
 
