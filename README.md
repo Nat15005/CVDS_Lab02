@@ -1,1 +1,2 @@
-# Lab02---CVDS
+# Laboratorio 2 CVDS
+OBJETIVOS
