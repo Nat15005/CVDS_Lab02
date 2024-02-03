@@ -16,5 +16,6 @@ Ingresar a la página de la herramienta y entender:
   - install: instala el paquete en el repositorio local, dejandolo disponible para ser usado en otros proyectos.
   - deploy:  copia el paquete en el repositorio remoto, donde otros desarrolladores o máquinas pueden acceder a él.
   #### 3. Ciclo de vida de la construcción
+  El proceso de construcción en Maven se divide en ciclo de vida de construcción, fases (Phases) y objetivos (Goals). Un ciclo de vida de la construcción se compone de una serie de fases de construcción, y cada fase de construcción se compone de una serie de objetivos.
   #### 4. Para qué sirven los plugins
   #### 5. Qué es y para qué sirve el repositorio central de maven
