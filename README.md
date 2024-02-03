@@ -29,4 +29,10 @@ El repositorio de Maven (o repositorio central) tiene una estructura que permite
   Busque cómo ejecutar desde línea de comandos el objetivo "generate" del plugin "archetype", con los siguientes parámetros:
   1. 
   ![image](https://github.com/Nat15005/Lab02---CVDS/assets/111907712/a6b13ca8-6180-48cf-81fe-484a3e3deb3e)
+  2. 
+  ![image](https://github.com/Nat15005/Lab02---CVDS/assets/111907712/38a06a97-5fa8-4851-8900-f7f8c2b1fb5a)
+  3.
+  ![image](https://github.com/Nat15005/Lab02---CVDS/assets/111907712/21da0d8d-2cad-4156-890a-c4f370d629df)
+
+
 
