@@ -11,6 +11,10 @@ Ingresar a la página de la herramienta y entender:
   - validate: se comprueba el proyecto para asegurarse de que está correctamente construido y de que se dispone de toda la     información necesaria.
   - compile: realizar la compilación el código fuente del proyecto.
   - test: se ejecutan las pruebas del proyecto.
+  - package: crea un archivo JAR o WAR que se puede usar para la implementación.
+  - verify: verifica si el paquete es válido y cumple con algunos estándares.
+  - install: instala el paquete en el repositorio local, dejandolo disponible para ser usado en otros proyectos.
+  - deploy:  copia el paquete en el repositorio remoto, donde otros desarrolladores o máquinas pueden acceder a él.
   #### 3. Ciclo de vida de la construcción
   #### 4. Para qué sirven los plugins
   #### 5. Qué es y para qué sirve el repositorio central de maven
