@@ -18,4 +18,5 @@ Ingresar a la página de la herramienta y entender:
   #### 3. Ciclo de vida de la construcción
   El proceso de construcción en Maven se divide en ciclo de vida de construcción, fases (Phases) y objetivos (Goals). Un ciclo de vida de la construcción se compone de una serie de fases de construcción, y cada fase de construcción se compone de una serie de objetivos.
   #### 4. Para qué sirven los plugins
+  Los plugins son componentes de software que proporcionan funcionalidades adicionales a Maven. Los plugins permiten extender y   personalizar el comportamiento de Maven. Pueden realizar tareas como la compilación, ejecución de pruebas, generación de        informes, despliegue, entre otros. Maven utiliza plugins para ejecutar las diversas fases del ciclo de vida del proyecto.
   #### 5. Qué es y para qué sirve el repositorio central de maven
