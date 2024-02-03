@@ -40,7 +40,13 @@ El repositorio de Maven (o repositorio central) tiene una estructura que permite
   ![image](https://github.com/Nat15005/Lab02---CVDS/assets/111907712/9755cdf7-a40d-46bb-8adc-8be3b92d2db4)
 
   - Cambie al directorio Patterns:
+    
     ![image](https://github.com/Nat15005/Lab02---CVDS/assets/111907712/b77d2174-f11c-40f9-9c35-952f804be3a2)
+
+  - Para ver el conjunto de archivos y directorios creados por el comando mvn ejecute el comando tree.
+
+    ![image](https://github.com/Nat15005/Lab02---CVDS/assets/111907712/a62cc36d-d173-4eac-ab32-8811769c178b)
+
 
 
 
