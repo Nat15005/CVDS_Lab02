@@ -8,6 +8,7 @@ Ingresar a la página de la herramienta y entender:
   #### 1. Cuál es su mayor utilidad
   Maven simplifica y estandariza el proceso de desarrollo de software en Java al proporcionar una estructura organizada, gestionar dependencias y automatizar tareas comunes, lo que mejora la eficiencia y la consistencia en los proyectos.
   #### 2. Fases de maven
+  - validate: se comprueba el proyecto para asegurarse de que está correctamente construido y de que se dispone de toda la     información necesaria.
   - compile: realizar la compilación el código fuente del proyecto.
   - test: se ejecutan las pruebas del proyecto.
   #### 3. Ciclo de vida de la construcción
