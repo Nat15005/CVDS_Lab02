@@ -45,7 +45,15 @@ El repositorio de Maven (o repositorio central) tiene una estructura que permite
 
   - Para ver el conjunto de archivos y directorios creados por el comando mvn ejecute el comando tree.
 
-    ![image](https://github.com/Nat15005/Lab02---CVDS/assets/111907712/a62cc36d-d173-4eac-ab32-8811769c178b)
+    ![image](https://github.com/Nat15005/Lab02---CVDS/assets/111907712/a62cc36d-d173-4eac-ab32-8811769c178b
+    
+## AJUSTAR ALGUNAS CONFIGURACIONES EN EL PROYECTO
+- Edite el archivo pom.xml y realize la siguiente actualización:
+  Hay que cambiar la version del compilador de Java a la versión 8
+  
+  ![image](https://github.com/Nat15005/Lab02---CVDS/assets/111907712/cf6c3ceb-26be-42b3-82a0-5c5e90501b86)
+
+  ![image](https://github.com/Nat15005/Lab02---CVDS/assets/111907712/6dcf17c2-04ca-4660-8fd3-b1616e4cc177)
 
 
 
