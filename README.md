@@ -17,9 +17,12 @@ Ingresar a la página de la herramienta y entender:
   - deploy:  copia el paquete en el repositorio remoto, donde otros desarrolladores o máquinas pueden acceder a él.
   #### 3. Ciclo de vida de la construcción
   El ciclo de vida de Maven se organiza en tres lifecycles principales: default, clean y site. Cada uno de estos lifecycles tiene un conjunto de fases predefinidas que representan las diferentes etapas   del proceso de construcción de un proyecto.
-    - Default Lifecycle:   Este ciclo de vida es el más común y se utiliza para construir, probar y distribuir el proyecto
-    - Clean Lifecycle: Este ciclo de vida se encarga de limpiar el directorio de salida del proyecto.
-    - Site Lifecycle: Este ciclo de vida se utiliza para generar y desplegar la documentación del proyecto.
+  
+  - Default Lifecycle:   Este ciclo de vida es el más común y se utiliza para construir, probar y distribuir el proyecto
+    
+  - Clean Lifecycle: Este ciclo de vida se encarga de limpiar el directorio de salida del proyecto.
+  - Site Lifecycle: Este ciclo de vida se utiliza para generar y desplegar la documentación del proyecto.
+    
   Estos lifecycles y fases predefinidas permiten una gestión coherente y ordenada del proceso de construcción de proyectos en Maven. Cada fase representa una tarea específica que contribuye al         
   desarrollo, prueba y distribución exitosos del proyecto.
   #### 4. Para qué sirven los plugins
