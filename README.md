@@ -28,7 +28,7 @@ El repositorio de Maven (o repositorio central) tiene una estructura que permite
   - Buscar cómo se crea un proyecto maven con ayuda de los arquetipos (archetypes).
   - Busque cómo ejecutar desde línea de comandos el objetivo "generate" del plugin "archetype", con los siguientes parámetros:
   
-  1. 
+  1. Primero generamos un nuevo proyecto Maven a partir de un arquetipo, con el comando "mvn archetype:generate"
   
   ![image](https://github.com/Nat15005/Lab02---CVDS/assets/111907712/a6b13ca8-6180-48cf-81fe-484a3e3deb3e)
   2. 
@@ -158,6 +158,8 @@ El repositorio de Maven (o repositorio central) tiene una estructura que permite
   - Parámetro: Hexagon
 
     ![image](https://github.com/Nat15005/Lab02---CVDS/assets/111907712/b1819134-e64e-448b-b1c4-b37dffe15e16)
+    
+  - ¿Cuál(es) de las anteriores instrucciones se ejecutan y funcionan correctamente y por qué?
 
 
 
