@@ -1,4 +1,5 @@
 # LABORATORIO 2 CVDS
+  Nombres: Cristian Alvarez y Laura Natalia Rojas
 ## OBJETIVOS
   1. Entender qué es Maven
   2. Usar comandos de generación de arquetipos, compilación y ejecución de un proyecto usando Maven
@@ -183,6 +184,11 @@ El repositorio de Maven (o repositorio central) tiene una estructura que permite
     
     La única instrucción que se ejecuta y funciona correctamente es el parámetro "Hexagon", esto debido a que es el único que está escrito correctamente a como está definido en los casos del switch.
 
+  ## BIBLIOGRAFÍA
+  
+- https://www.arquitecturajava.com/que-es-un-maven-lifecycle-y-como-funciona/
+- https://maven.apache.org/ref/3.9.6/
+- https://jcodepoint.com/maven/ciclo-de-vida-de-maven/
 
 
 
