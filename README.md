@@ -82,12 +82,20 @@ El repositorio de Maven (o repositorio central) tiene una estructura que permite
 
 
 
+
 - Utilizar la primera posición del parámetro que llega al método "main" para realizar elsaludo personalizado, en caso que no sea posible, se debe mantener el saludo como se encuentra actualmente:
 - Buscar cómo enviar parámetros al plugin "exec".
 - Ejecutar nuevamente la clase desde línea de comandos y verificar la salida: Hello World!
 - Ejecutar la clase desde línea de comandos enviando su nombre como parámetro y verificar la salida. Ej: Hello Pepito!
 - Ejecutar la clase con su nombre y apellido como parámetro. ¿Qué sucedió?
+  
+  ![image](https://github.com/Nat15005/Lab02---CVDS/assets/111907712/28ebc844-959e-4c15-a1e3-127bcf31c3ab)
+
+
 - Verifique cómo enviar los parámetros de forma "compuesta" para que el saludo se realice con nombre y apellido.
+
+  ![image](https://github.com/Nat15005/Lab02---CVDS/assets/111907712/15bc1257-cce6-4170-90a6-0c4cdb5d11d5)
+
 - Ejecutar nuevamente y verificar la salida en consola. Ej: Hello Pepito Perez!
   
   ![image](https://github.com/Nat15005/Lab02---CVDS/assets/111907712/814e8ab9-cf75-46d0-baec-747bd7fdbb75)
