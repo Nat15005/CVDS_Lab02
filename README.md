@@ -83,11 +83,13 @@ El repositorio de Maven (o repositorio central) tiene una estructura que permite
 
 - Ejecutar nuevamente la clase desde línea de comandos y verificar la salida: Hello World!
 
-  ![image](https://github.com/Nat15005/Lab02---CVDS/assets/111907712/1d2f5296-f904-44d8-b4f1-96597042c8b1)
+  ![image](https://github.com/Nat15005/Lab02---CVDS/assets/111907712/5d936216-b1a6-48c4-bc11-a4214ded01c2)
+
 
 - Ejecutar la clase desde línea de comandos enviando su nombre como parámetro y verificar la salida. Ej: Hello Pepito!
 
-  
+  ![image](https://github.com/Nat15005/Lab02---CVDS/assets/111907712/adf217df-d666-4d9f-ab1d-e5ea7e1f7cc4)
+
 
 - Ejecutar la clase con su nombre y apellido como parámetro. ¿Qué sucedió?
   
