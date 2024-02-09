@@ -121,9 +121,31 @@ El repositorio de Maven (o repositorio central) tiene una estructura que permite
 - En el directorio src/main/java/edu/eci/cvds/patterns/shapes/concrete cree las diferentes clases (Triangle, Quadrilateral, Pentagon, Hexagon), que implementen la interfaz creada y retornen el número correspondiente de vértices que tiene la figura.
   
   ![image](https://github.com/Nat15005/Lab02---CVDS/assets/111907712/768f59bf-0d4c-4d29-8f47-2995ae3efb22)
+  
   ![image](https://github.com/Nat15005/Lab02---CVDS/assets/111907712/20091b0a-def0-4b5d-80f6-8f1cc9fcffda)
+  
   ![image](https://github.com/Nat15005/Lab02---CVDS/assets/111907712/1c23ea1f-da92-49c8-8973-7e551cbd5e53)
+  
   ![image](https://github.com/Nat15005/Lab02---CVDS/assets/111907712/8253f359-f129-45e0-870a-089089e3eaa3)
+
+- Cree el archivo ShapeMain.java en el directorio src/main/java/edu/eci/cvds/patterns/shapes con el metodo main:
+
+  ![image](https://github.com/Nat15005/Lab02---CVDS/assets/111907712/6b925950-57f8-49a5-b82a-957a6a002020)
+
+- Analice y asegúrese de entender cada una de las instrucciones que se encuentran en todas las clases que se crearon anteriormente. Cree el archivo ShapeFactory.java en el directorio src/main/java/edu/eci/cvds/patterns/shapes implementando el patrón fábrica, haciendo uso de la instrucción switch-case de Java y usando las enumeraciones.
+
+  ![image](https://github.com/Nat15005/Lab02---CVDS/assets/111907712/f8e7f4a6-4689-4082-8c36-c3712adab06b)
+  
+- ¿Cuál fábrica hiciste? y ¿Cuál es mejor?
+  
+- Simple Factory:
+
+  ![image](https://github.com/Nat15005/Lab02---CVDS/assets/111907712/c0119522-f331-4157-88e9-170162cba98d)
+
+  
+
+
+  
 
 
   
