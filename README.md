@@ -111,7 +111,8 @@ El repositorio de Maven (o repositorio central) tiene una estructura que permite
 
 - Ejecutar nuevamente y verificar la salida en consola. Ej: Hello Pepito Perez!
 
-  ![image](https://github.com/Nat15005/Lab02---CVDS/assets/111907712/96dc1aee-6ffb-47d5-8c40-abfb8e1b5059)
+  ![image](https://github.com/Nat15005/Lab02---CVDS/assets/111907712/ebd63623-939a-4644-aeb3-7e726bc703ec)
+
   
 ## HACER EL ESQUELETO DE LA APLICACIÓN
 - Cree el paquete edu.eci.cvds.patterns.shapes y el paquete edu.eci.cvds.patterns.shapes.concrete.
