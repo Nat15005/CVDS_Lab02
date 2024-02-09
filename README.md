@@ -101,7 +101,7 @@ El repositorio de Maven (o repositorio central) tiene una estructura que permite
 
   Como la función está definida para solo tomar el primer string del parámetro ingresado, solo toma el nombre.
   
-  ![image](https://github.com/Nat15005/Lab02---CVDS/assets/111907712/28ebc844-959e-4c15-a1e3-127bcf31c3ab)
+  ![image](https://github.com/Nat15005/Lab02---CVDS/assets/111907712/20743a69-bd3a-4d0e-a4a2-e923273039f4)
 
 
 - Verifique cómo enviar los parámetros de forma "compuesta" para que el saludo se realice con nombre y apellido.
