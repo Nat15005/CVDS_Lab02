@@ -114,6 +114,26 @@ El repositorio de Maven (o repositorio central) tiene una estructura que permite
 
   ![image](https://github.com/Nat15005/Lab02---CVDS/assets/111907712/520a8afc-6eee-4ea5-9791-89308da1c90a)
 
+- Cree una enumeración llamada RegularShapeType.java en el directorio src/main/java/edu/eci/cvds/patterns/shapes
+
+  ![image](https://github.com/Nat15005/Lab02---CVDS/assets/111907712/ce66aa78-8a6a-4998-a37c-e8b027aceabd)
+
+- En el directorio src/main/java/edu/eci/cvds/patterns/shapes/concrete cree las diferentes clases (Triangle, Quadrilateral, Pentagon, Hexagon), que implementen la interfaz creada y retornen el número correspondiente de vértices que tiene la figura.
+  
+  ![image](https://github.com/Nat15005/Lab02---CVDS/assets/111907712/768f59bf-0d4c-4d29-8f47-2995ae3efb22)
+  ![image](https://github.com/Nat15005/Lab02---CVDS/assets/111907712/20091b0a-def0-4b5d-80f6-8f1cc9fcffda)
+  ![image](https://github.com/Nat15005/Lab02---CVDS/assets/111907712/1c23ea1f-da92-49c8-8973-7e551cbd5e53)
+  ![image](https://github.com/Nat15005/Lab02---CVDS/assets/111907712/8253f359-f129-45e0-870a-089089e3eaa3)
+
+
+  
+
+
+
+
+
+
+
 
 
 
