@@ -58,9 +58,10 @@ El repositorio de Maven (o repositorio central) tiene una estructura que permite
 
 
 ## COMPILAR Y EJECUTAR
-## - Busque cuál es el objetivo del parámetro "package" y qué otros parámetros se podrían enviar al comando mvn.
+ - Busque cuál es el objetivo del parámetro "package" y qué otros parámetros se podrían enviar al comando mvn.
   
-  El parámetro package en Maven se utiliza para especificar el tipo de empaquetado que se aplicará al proyecto durante la fase de empaquetado (mvn package). En este caso un .jar
+    El parámetro package en Maven se utiliza para especificar el tipo de empaquetado que se aplicará al proyecto durante la fase de empaquetado (mvn package). En este caso un .jar
+  
 - Busque cómo ejecutar desde línea de comandos, un proyecto maven y verifique la salida cuando se ejecuta con la clase App.java como parámetro en "mainClass". Tip: https://www.mojohaus.org/exec-maven-plugin/usage.html
 
   ![image](https://github.com/Nat15005/Lab02---CVDS/assets/111907712/c7e62ed1-9f9c-4317-9dbc-e92f4ab39998)
