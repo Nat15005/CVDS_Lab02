@@ -106,7 +106,15 @@ El repositorio de Maven (o repositorio central) tiene una estructura que permite
   ![image](https://github.com/Nat15005/Lab02---CVDS/assets/111907712/96dc1aee-6ffb-47d5-8c40-abfb8e1b5059)
   
 ## HACER EL ESQUELETO DE LA APLICACIÓN
-  
+- Cree el paquete edu.eci.cvds.patterns.shapes y el paquete edu.eci.cvds.patterns.shapes.concrete.
+
+  ![image](https://github.com/Nat15005/Lab02---CVDS/assets/111907712/f38c0f92-a4c6-4566-859f-1955842618d3)
+
+- Cree una interfaz llamada Shape.java en el directorio src/main/java/edu/eci/cvds/patterns/shapes
+
+  ![image](https://github.com/Nat15005/Lab02---CVDS/assets/111907712/520a8afc-6eee-4ea5-9791-89308da1c90a)
+
+
 
 
 
