@@ -65,6 +65,8 @@ El repositorio de Maven (o repositorio central) tiene una estructura que permite
   ![image](https://github.com/Nat15005/Lab02---CVDS/assets/111907712/c7e62ed1-9f9c-4317-9dbc-e92f4ab39998)
 
 - Realice el cambio en la clase App.java para crear un saludo personalizado, basado en los parámetros de entrada a la aplicación.
+- Utilizar la primera posición del parámetro que llega al método "main" para realizar elsaludo personalizado, en caso que no sea posible, se debe mantener el saludo como se encuentra actualmente:
+- Buscar cómo enviar parámetros al plugin "exec".
 
  1. Modificamos el .app
     
@@ -75,18 +77,18 @@ El repositorio de Maven (o repositorio central) tiene una estructura que permite
    
    ![image](https://github.com/Nat15005/Lab02---CVDS/assets/111907712/2d9efcf3-3594-47ee-aca5-57a92d22bd66)
    
-3. thd
+3. Ejecutamos con parametrosssss
 
    ![image](https://github.com/Nat15005/Lab02---CVDS/assets/111907712/166d394f-14f9-4169-909f-5a0e34e7c8dc)
 
-
-
-
-
-- Utilizar la primera posición del parámetro que llega al método "main" para realizar elsaludo personalizado, en caso que no sea posible, se debe mantener el saludo como se encuentra actualmente:
-- Buscar cómo enviar parámetros al plugin "exec".
 - Ejecutar nuevamente la clase desde línea de comandos y verificar la salida: Hello World!
+
+  ![image](https://github.com/Nat15005/Lab02---CVDS/assets/111907712/1d2f5296-f904-44d8-b4f1-96597042c8b1)
+
 - Ejecutar la clase desde línea de comandos enviando su nombre como parámetro y verificar la salida. Ej: Hello Pepito!
+
+  
+
 - Ejecutar la clase con su nombre y apellido como parámetro. ¿Qué sucedió?
   
   ![image](https://github.com/Nat15005/Lab02---CVDS/assets/111907712/28ebc844-959e-4c15-a1e3-127bcf31c3ab)
@@ -94,11 +96,15 @@ El repositorio de Maven (o repositorio central) tiene una estructura que permite
 
 - Verifique cómo enviar los parámetros de forma "compuesta" para que el saludo se realice con nombre y apellido.
 
-  ![image](https://github.com/Nat15005/Lab02---CVDS/assets/111907712/15bc1257-cce6-4170-90a6-0c4cdb5d11d5)
+  ![image](https://github.com/Nat15005/Lab02---CVDS/assets/111907712/39b11f2d-04a4-4d66-bf76-3b4aa3e36122)
+
 
 - Ejecutar nuevamente y verificar la salida en consola. Ej: Hello Pepito Perez!
+
+  ![image](https://github.com/Nat15005/Lab02---CVDS/assets/111907712/96dc1aee-6ffb-47d5-8c40-abfb8e1b5059)
   
-  ![image](https://github.com/Nat15005/Lab02---CVDS/assets/111907712/814e8ab9-cf75-46d0-baec-747bd7fdbb75)
+
+
 
 
 
