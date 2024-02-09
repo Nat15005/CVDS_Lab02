@@ -138,9 +138,20 @@ El repositorio de Maven (o repositorio central) tiene una estructura que permite
   
 - ¿Cuál fábrica hiciste? y ¿Cuál es mejor?
   
-- Simple Factory:
+ Simple Factory:
 
   ![image](https://github.com/Nat15005/Lab02---CVDS/assets/111907712/c0119522-f331-4157-88e9-170162cba98d)
+  
+- Ejecute múltiples veces la clase ShapeMain, usando el plugin exec de maven con los siguientes parámetros y verifique la salida en consola para cada una:
+  - Sin parámetros
+    
+    ![image](https://github.com/Nat15005/Lab02---CVDS/assets/111907712/e43c033c-bde4-4b3f-8cea-0959e061af50)
+
+  - Parámetro: qwerty
+
+    ![image](https://github.com/Nat15005/Lab02---CVDS/assets/111907712/a476efe5-b8ce-4135-a956-2b2776f706e1)
+
+
 
   
 
