@@ -151,6 +151,15 @@ El repositorio de Maven (o repositorio central) tiene una estructura que permite
 
     ![image](https://github.com/Nat15005/Lab02---CVDS/assets/111907712/a476efe5-b8ce-4135-a956-2b2776f706e1)
 
+  - Parámetro: pentagon
+
+    ![image](https://github.com/Nat15005/Lab02---CVDS/assets/111907712/74da7e2f-773d-4fad-adee-74761be1cf14)
+
+  - Parámetro: Hexagon
+
+    ![image](https://github.com/Nat15005/Lab02---CVDS/assets/111907712/b1819134-e64e-448b-b1c4-b37dffe15e16)
+
+
 
 
   
