@@ -72,8 +72,9 @@ El repositorio de Maven (o repositorio central) tiene una estructura que permite
 - Realice el cambio en la clase App.java para crear un saludo personalizado, basado en los parámetros de entrada a la aplicación.
 - Utilizar la primera posición del parámetro que llega al método "main" para realizar elsaludo personalizado, en caso que no sea posible, se debe mantener el saludo como se encuentra actualmente:
 - Buscar cómo enviar parámetros al plugin "exec".
+  
 
- 1. Modificamos el .app
+ 1. Modificamos el App.java
     
     ![image](https://github.com/Nat15005/Lab02---CVDS/assets/111907712/19d34654-f1f8-4b69-9803-b34e0f5d012b)
 
@@ -82,7 +83,7 @@ El repositorio de Maven (o repositorio central) tiene una estructura que permite
    
    ![image](https://github.com/Nat15005/Lab02---CVDS/assets/111907712/2d9efcf3-3594-47ee-aca5-57a92d22bd66)
    
-3. Ejecutamos con parametrosssss
+3. Ejecutamos con el parámetro "CVDS"
 
    ![image](https://github.com/Nat15005/Lab02---CVDS/assets/111907712/166d394f-14f9-4169-909f-5a0e34e7c8dc)
 
@@ -97,6 +98,8 @@ El repositorio de Maven (o repositorio central) tiene una estructura que permite
 
 
 - Ejecutar la clase con su nombre y apellido como parámetro. ¿Qué sucedió?
+
+  Como la función está definida para solo tomar el primer string del parámetro ingresado, solo toma el nombre.
   
   ![image](https://github.com/Nat15005/Lab02---CVDS/assets/111907712/28ebc844-959e-4c15-a1e3-127bcf31c3ab)
 
