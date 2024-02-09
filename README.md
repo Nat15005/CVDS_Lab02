@@ -64,7 +64,10 @@ El repositorio de Maven (o repositorio central) tiene una estructura que permite
   
 - Busque cómo ejecutar desde línea de comandos, un proyecto maven y verifique la salida cuando se ejecuta con la clase App.java como parámetro en "mainClass". Tip: https://www.mojohaus.org/exec-maven-plugin/usage.html
 
-  ![image](https://github.com/Nat15005/Lab02---CVDS/assets/111907712/c7e62ed1-9f9c-4317-9dbc-e92f4ab39998)
+  utilizamos: $ mvn exec:java -Dexec.mainClass="edu.eci.cvds.patterns.archetype.App"
+
+  ![image](https://github.com/Nat15005/Lab02---CVDS/assets/111907712/ab3ebb95-ceb7-4bb6-abcc-bdd4eedd468d)
+
 
 - Realice el cambio en la clase App.java para crear un saludo personalizado, basado en los parámetros de entrada a la aplicación.
 - Utilizar la primera posición del parámetro que llega al método "main" para realizar elsaludo personalizado, en caso que no sea posible, se debe mantener el saludo como se encuentra actualmente:
