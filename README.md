@@ -31,11 +31,12 @@ El repositorio de Maven (o repositorio central) tiene una estructura que permite
   1. Primero generamos un nuevo proyecto Maven a partir de un arquetipo, con el comando "mvn archetype:generate"
   
   ![image](https://github.com/Nat15005/Lab02---CVDS/assets/111907712/a6b13ca8-6180-48cf-81fe-484a3e3deb3e)
-  2. 
+  
+  2. Escogemos la versión, en este caso la opción 5
   
   ![image](https://github.com/Nat15005/Lab02---CVDS/assets/111907712/38a06a97-5fa8-4851-8900-f7f8c2b1fb5a)
   
-  3.
+  3. Establecemos las configuraciones correspondientes:
   
   ![image](https://github.com/Nat15005/Lab02---CVDS/assets/111907712/9755cdf7-a40d-46bb-8adc-8be3b92d2db4)
 
