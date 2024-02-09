@@ -16,7 +16,12 @@ Ingresar a la página de la herramienta y entender:
   - install: instala el paquete en el repositorio local, dejandolo disponible para ser usado en otros proyectos.
   - deploy:  copia el paquete en el repositorio remoto, donde otros desarrolladores o máquinas pueden acceder a él.
   #### 3. Ciclo de vida de la construcción
-  El proceso de construcción en Maven se divide en ciclo de vida de construcción, fases (Phases) y objetivos (Goals). Un ciclo de vida de la construcción se compone de una serie de fases de construcción, y cada fase de construcción se compone de una serie de objetivos.
+  El ciclo de vida de Maven se organiza en tres lifecycles principales: default, clean y site. Cada uno de estos lifecycles tiene un conjunto de fases predefinidas que representan las diferentes etapas   del proceso de construcción de un proyecto.
+    - Default Lifecycle:   Este ciclo de vida es el más común y se utiliza para construir, probar y distribuir el proyecto
+    - Clean Lifecycle: Este ciclo de vida se encarga de limpiar el directorio de salida del proyecto.
+    - Site Lifecycle: Este ciclo de vida se utiliza para generar y desplegar la documentación del proyecto.
+  Estos lifecycles y fases predefinidas permiten una gestión coherente y ordenada del proceso de construcción de proyectos en Maven. Cada fase representa una tarea específica que contribuye al         
+  desarrollo, prueba y distribución exitosos del proyecto.
   #### 4. Para qué sirven los plugins
   Los plugins son componentes de software que proporcionan funcionalidades adicionales a Maven. Los plugins permiten extender y   personalizar el comportamiento de Maven. Pueden realizar tareas como la compilación, ejecución de pruebas, generación de        informes, despliegue, entre otros. Maven utiliza plugins para ejecutar las diversas fases del ciclo de vida del proyecto.
   #### 5. Qué es y para qué sirve el repositorio central de maven
@@ -146,6 +151,9 @@ El repositorio de Maven (o repositorio central) tiene una estructura que permite
   ![image](https://github.com/Nat15005/Lab02---CVDS/assets/111907712/f8e7f4a6-4689-4082-8c36-c3712adab06b)
   
 - ¿Cuál fábrica hiciste? y ¿Cuál es mejor?
+
+  Realizamos la "simple factory"
+  En este caso, es mejor utilizar la "simple factory", ya que todos los objetos se instancian de la misma manera, haciendo que utilizar otras fábricas resulte inncesario para este caso
   
  Simple Factory:
 
@@ -169,6 +177,7 @@ El repositorio de Maven (o repositorio central) tiene una estructura que permite
     ![image](https://github.com/Nat15005/Lab02---CVDS/assets/111907712/b1819134-e64e-448b-b1c4-b37dffe15e16)
     
   - ¿Cuál(es) de las anteriores instrucciones se ejecutan y funcionan correctamente y por qué?
+    La única instrucción que se ejecuta y funciona correctamente es el parámetro "Hexagon", esto debido a que es el único que está escrito correctamente a como está definido en los casos del switch.
 
 
 
