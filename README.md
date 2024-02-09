@@ -180,6 +180,7 @@ El repositorio de Maven (o repositorio central) tiene una estructura que permite
     ![image](https://github.com/Nat15005/Lab02---CVDS/assets/111907712/b1819134-e64e-448b-b1c4-b37dffe15e16)
     
   - ¿Cuál(es) de las anteriores instrucciones se ejecutan y funcionan correctamente y por qué?
+    
     La única instrucción que se ejecuta y funciona correctamente es el parámetro "Hexagon", esto debido a que es el único que está escrito correctamente a como está definido en los casos del switch.
 
 
